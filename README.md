@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Patrick Masry</h1>
 <h3 align="center">Mobile Application Developer(Flutter)</h3>
 
-<img align="center" alt="Coding" width="800" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVvYWprb2l4cHcxZDg5Y3o0b2V0eHR0dTRmNGs0MHJrNnBzcmV5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="[your-image.jpg](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl2Y3ptdnNpaHc5em00MHp6M25jcW13c202MWdjZjNyZTh2NDdiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif)" alt="Centered Image">
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
