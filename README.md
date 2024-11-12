@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patrick Masry</h1>
 <h3 align="center">Mobile Application Developer(Flutter)</h3>
 
-<img align="center" alt="Coding" width="800" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="center" alt="Coding" width="800" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVvYWprb2l4cHcxZDg5Y3o0b2V0eHR0dTRmNGs0MHJrNnBzcmV5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
