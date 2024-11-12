@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Patrick Masry</h1>
 <h3 align="center">Mobile Application Developer(Flutter)</h3>
 
