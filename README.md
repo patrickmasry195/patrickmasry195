@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Application Developer(Flutter)</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="[your-image.jpg](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl2Y3ptdnNpaHc5em00MHp6M25jcW13c202MWdjZjNyZTh2NDdiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif)" alt="Centered Image">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl2Y3ptdnNpaHc5em00MHp6M25jcW13c202MWdjZjNyZTh2NDdiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z3VgQu8hkVeB1bakS9/giphy.gif" alt="Centered Image">
 </div>
 
 
